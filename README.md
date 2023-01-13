@@ -1,5 +1,9 @@
 # YaBoi Version 2
 
+## README
+
+This is just a dump of the whole bot. I did not post it here like a plug and play. If you can find the issues present and fix it you can use it. Remember that I did not post this here so people can bot Twitch. This has been made for educational purposes only. UNKWN services's bot is now public.
+
 ## YaBoi version 2 is a repack ( rewrite ) of YaBoi VPS
 
 ### Voice recognition and mention recognition
